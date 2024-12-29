@@ -1,0 +1,80 @@
+*{
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding: 0;
+
+}
+
+.phone{
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right:10px;
+    margin-bottom:10px;
+    padding: 10px;
+    background-color: #f1f1f1;
+    float: left;
+    width: 300px;
+   
+}
+
+label.offer{
+
+    color: rgb(224, 22, 33);
+    text-decoration: line-through;
+
+    font-size: 14px;
+
+}
+div.title{
+    margin-right: auto;
+    margin-bottom: 2px;
+}
+
+.products img{
+
+    width: 100%;
+
+ 
+   
+}
+ button.cartbtn{
+    width: 130px;
+    height: 40px;
+    margin-top: 15%;
+    background-color: rgb(93, 183, 219);
+   color:white;
+
+}
+button.likebtn{
+    border-color: rgb(93, 183, 219);
+    border-width: 5px;
+    width:40px ;
+    height: 40px;
+    
+}
+.buttons{
+    width: 100%;
+    float: left ;
+    margin-top: 10px;
+
+   
+}
+
+.price{
+    font-size: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: #258835;
+    font-size: medium;
+}
+h3{
+    margin-bottom: 8px;
+}
+.fa-solid{
+    color: #ddff1b;
+}
+.fa-regular{
+    color: rgb(93, 183, 219) ;
+}
